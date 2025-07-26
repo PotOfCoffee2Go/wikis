@@ -1,0 +1,12 @@
+created: 20250722044507871
+modified: 20250722195535399
+tags: 
+title: twgist settings
+twgist_log_options: --oneline [[-n 6]] $:/plugins/wikilabs/link-to-tabs--graph --decorate
+type: text/vnd.tiddlywiki
+
+<div style="font-family: monospace;">
+
+|Log options |<$edit-text tiddler="twgist settings" field="twgist_log_options"/> |
+
+</div>
