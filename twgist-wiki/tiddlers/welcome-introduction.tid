@@ -1,10 +1,16 @@
 caption: Introduction
 created: 20250722200626695
-modified: 20250723201228777
+modified: 20250725073512727
 title: welcome-introduction
 type: text/vnd.tiddlywiki
 
 !! Introduction
+
+The install of @@font-family:monospace;'twgist'@@ also installs @@font-family:monospace;'twrepo'@@ which is similar, but used to manage wikis with in GitHub Repositories instead of Gists.
+
+At user level; all commands of @@font-family:monospace;'twgist'@@  and @@font-family:monospace;'twrepo'@@ are identical with the exception of the 'init' command. 'twgist init' requires the Gist ID while 'twrepo init' does not.
+
+!!! Gist vs Repo
 
 Workflow:
 
