@@ -1,5 +1,5 @@
 created: 20250725055255821
-modified: 20250726065812171
+modified: 20250726070656988
 tags: 
 title: Tab playground
 type: text/vnd.tiddlywiki
@@ -7,3 +7,5 @@ type: text/vnd.tiddlywiki
 to-do
 
 * add a tabs macro
+* change name in state/tab/tiddler
+
