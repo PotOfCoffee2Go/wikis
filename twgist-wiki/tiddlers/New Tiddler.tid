@@ -1,8 +1,8 @@
 created: 20250723160132820
-modified: 20250726074024440
+modified: 20250726075949751
 tags: 
 title: New Tiddler
 type: text/vnd.tiddlywiki
 
 
-example of the 'commands' tab : <<commandstabs commands-status status>>
+example of the 'commandstabs' : <<commandstabs commands-status status>>
